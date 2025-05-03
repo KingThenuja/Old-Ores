@@ -1,0 +1,6 @@
+{
+    "pack": {
+        "pack_format": 55,
+        "description": "Removes the 1.17/1.18 ore styles and turns them into the classic ores"
+    }
+}
